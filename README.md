@@ -1,2 +1,2 @@
 # excelr_demo
-This s my first repository
+This is my first repository
